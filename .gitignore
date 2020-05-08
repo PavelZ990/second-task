@@ -1,5 +1,5 @@
-.DS_Store
-._old
+*.DS_Store
+*._old
 tmp/
 img/
 css/
