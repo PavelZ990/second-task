@@ -1,7 +1,6 @@
 .DS_Store
-.html_old
+._old
 tmp/
 img/
 css/
 js/
-/tmp/
